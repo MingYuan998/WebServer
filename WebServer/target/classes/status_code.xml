@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 此配置文件用于保存http状态码 -->
+<http>
+	<status>
+		<status-code>100</status-code>
+		<status-mapping>Continue</status-mapping>
+	</status>
+	<status>
+		<status-code>101</status-code>
+		<status-mapping>Switching</status-mapping>
+	</status>
+	<status>
+		<status-code>200</status-code>
+		<status-mapping>OK</status-mapping>
+	</status>
+	<status>
+		<status-code>201</status-code>
+		<status-mapping>Created</status-mapping>
+	</status>
+	<status>
+		<status-code>202</status-code>
+		<status-mapping>Accepted</status-mapping>
+	</status>
+	<status>
+		<status-code>203</status-code>
+		<status-mapping>Non-Authoritative Information</status-mapping>
+	</status>
+	<status>
+		<status-code>204</status-code>
+		<status-mapping>No Content</status-mapping>
+	</status>
+	<status>
+		<status-code>205</status-code>
+		<status-mapping>Reset Content</status-mapping>
+	</status>
+	<status>
+		<status-code>206</status-code>
+		<status-mapping>Partial Content</status-mapping>
+	</status>
+	<status>
+		<status-code>300</status-code>
+		<status-mapping>Multiple Choice</status-mapping>
+	</status>
+	<status>
+		<status-code>301</status-code>
+		<status-mapping>Moved Permanently</status-mapping>
+	</status>
+	<status>
+		<status-code>302</status-code>
+		<status-mapping>Found</status-mapping>
+	</status>
+	<status>
+		<status-code>303</status-code>
+		<status-mapping>See Other</status-mapping>
+	</status>
+	<status>
+		<status-code>304</status-code>
+		<status-mapping>Not Modified</status-mapping>
+	</status>
+	<status>
+		<status-code>305</status-code>
+		<status-mapping>Use Proxy</status-mapping>
+	</status>
+	<status>
+		<status-code>306</status-code>
+		<status-mapping>Unused</status-mapping>
+	</status>
+	<status>
+		<status-code>307</status-code>
+		<status-mapping>Temporary Redirect</status-mapping>
+	</status>
+	<status>
+		<status-code>400</status-code>
+		<status-mapping>Bad Request</status-mapping>
+	</status>
+	<status>
+		<status-code>401</status-code>
+		<status-mapping>Unauthorized</status-mapping>
+	</status>
+	<status>
+		<status-code>402</status-code>
+		<status-mapping>Payment Required</status-mapping>
+	</status>
+	<status>
+		<status-code>403</status-code>
+		<status-mapping>Forbidden</status-mapping>
+	</status>
+	<status>
+		<status-code>404</status-code>
+		<status-mapping>Not Found</status-mapping>
+	</status>
+	<status>
+		<status-code>405</status-code>
+		<status-mapping>Method Not Allowed</status-mapping>
+	</status>
+	<status>
+		<status-code>406</status-code>
+		<status-mapping>Not Acceptable</status-mapping>
+	</status>
+	<status>
+		<status-code>407</status-code>
+		<status-mapping>Proxy Authentication Required</status-mapping>
+	</status>
+	<status>
+		<status-code>408</status-code>
+		<status-mapping>Request Time-out</status-mapping>
+	</status>
+	<status>
+		<status-code>409</status-code>
+		<status-mapping>Conflict</status-mapping>
+	</status>
+	<status>
+		<status-code>410</status-code>
+		<status-mapping>Gone</status-mapping>
+	</status>
+	<status>
+		<status-code>411</status-code>
+		<status-mapping>Length Required</status-mapping>
+	</status>
+	<status>
+		<status-code>412</status-code>
+		<status-mapping>Precondition Failed</status-mapping>
+	</status>
+	<status>
+		<status-code>413</status-code>
+		<status-mapping>Request Entity Too Large</status-mapping>
+	</status>
+	<status>
+		<status-code>414</status-code>
+		<status-mapping>Request-URI Too Large</status-mapping>
+	</status>
+	<status>
+		<status-code>415</status-code>
+		<status-mapping>Unsupported Media Type</status-mapping>
+	</status>
+	<status>
+		<status-code>416</status-code>
+		<status-mapping>Requested range not satisfiable</status-mapping>
+	</status>
+	<status>
+		<status-code>417</status-code>
+		<status-mapping>Expectation Failed</status-mapping>
+	</status>
+	<status>
+		<status-code>500</status-code>
+		<status-mapping>Internal Server Error</status-mapping>
+	</status>
+	<status>
+		<status-code>501</status-code>
+		<status-mapping>Not Implemented</status-mapping>
+	</status>
+	<status>
+		<status-code>502</status-code>
+		<status-mapping>Bad Gateway</status-mapping>
+	</status>
+	<status>
+		<status-code>503</status-code>
+		<status-mapping>Service Unavailable</status-mapping>
+	</status>
+	<status>
+		<status-code>504</status-code>
+		<status-mapping>Gateway Time-out</status-mapping>
+	</status>
+	<status>
+		<status-code>505</status-code>
+		<status-mapping>HTTP Version not supported</status-mapping>
+	</status>
+</http>

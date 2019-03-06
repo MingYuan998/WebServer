@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 路径与类之间的映射关系 -->
+<servlets>
+	<servlet url="/myweb/reg" class="com.demo.servlet.RegisterServlet"></servlet>
+</servlets>
